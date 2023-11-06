@@ -1,3 +1,3 @@
-1. Mohammad Ebrahimi
-2. Komail Noori
-Department: IT
+Software Engineering 
+1. Mohammad Saver Oyghen
+2. Junaidullah Burhan
